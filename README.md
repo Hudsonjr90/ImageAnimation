@@ -7,7 +7,7 @@
 
 ### tecnologias usadas 
 
-Meu portifolio foi criado com Html / CSS(Sass) / Javascript. 
+Meu projeto foi criado com Html / CSS / Javascript. 
 
 <table>
   <tbody>
