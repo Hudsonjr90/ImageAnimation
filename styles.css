@@ -60,7 +60,7 @@ body {
     animation: ship-move 15s 3s forwards;
 }
 .rocket {
-    bottom: 60px;
+    bottom: -80px;
     left: 400px;
     width: 50px;
     animation: comet-move 12s 5s forwards;
@@ -68,7 +68,7 @@ body {
 
 .comet {
     top: 150px;
-    left: -250px;
+    left: -150px;
     width: 150px;
     animation: comet-move 20s 5s forwards;
 }
